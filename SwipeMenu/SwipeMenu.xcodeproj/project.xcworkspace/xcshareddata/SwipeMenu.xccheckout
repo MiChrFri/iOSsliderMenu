@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30F68D02-3530-4CE3-BB25-2A3129EEA6E0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwipeMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49DB784905760726456DA62628F5FE55E08F7B39</key>
+		<string>https://github.com/Mikonacci/iOSsliderMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwipeMenu/SwipeMenu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49DB784905760726456DA62628F5FE55E08F7B39</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Mikonacci/iOSsliderMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49DB784905760726456DA62628F5FE55E08F7B39</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49DB784905760726456DA62628F5FE55E08F7B39</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSsliderMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
